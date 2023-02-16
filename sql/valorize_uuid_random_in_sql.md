@@ -1,4 +1,4 @@
-# Valorize uuid_generate functions in SQL files
+# Valorize uuid_generate functions in .sql files
 
 I had a bunch of .sql files containing inserts with the uid generated using `uuid_generate_v4()`.
 To make them idempotent, I wanted to valorize them all before runtime, so on consequent runs the uid would collide.
