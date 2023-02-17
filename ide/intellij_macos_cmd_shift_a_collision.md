@@ -11,8 +11,7 @@ shortcut anyway.
 To disable the shortcut: 
 - System settings
 - Keyboard
-- Shortcuts
+- Keyboard Shortcuts...
 - Services
-
-
-*wip*
+- Text
+- Disable "Search man Page Index in Terminal"
