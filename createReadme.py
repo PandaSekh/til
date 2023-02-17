@@ -1,1 +1,1 @@
-python3 ../../update_readme.py
+python3 update_readme.py
