@@ -1,13 +1,12 @@
 #!/usr/bin/env python
 ''' 
 	From: https://github.com/til-collective/til-collective/pull/6
+
 	Simple script to auto-generate the README.md file for a til project.
     NOTE: Someone who wanted to be fancy would actually use a template engine
     for this, but this seemed like a task for which it is best to only require
     python.  This is not a general purpose script, but tailored for the format
     being used for "Today I Learned" repos.
-    Apply as a git hook by running the following command in linux:
-        cd .git/hooks/ && ln -s ../../createReadme.py pre-commit && cd -
 '''
 from __future__ import print_function
 import os
@@ -23,8 +22,8 @@ Inspired by [https://github.com/simonw/til](https://github.com/simonw/til).
 '''
 
 FOOTER = '''
+Sample footer
 '''
-
 
 def get_list_of_categories():
     ''' Walk the current directory and get a list of all subdirectories at that
@@ -109,6 +108,4 @@ def create_readme():
     print_file(category_names, count, categories)
 
 if __name__ == '__main__':
-    print("Starting...")
     create_readme()
-    os.system('git add README.md')
