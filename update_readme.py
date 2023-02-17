@@ -22,7 +22,6 @@ Inspired by [https://github.com/simonw/til](https://github.com/simonw/til).
 '''
 
 FOOTER = '''
-Sample footer
 '''
 
 def get_list_of_categories():
