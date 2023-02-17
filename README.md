@@ -13,18 +13,17 @@ _2 TILs and counting..._
 
 ### Categories
 
-* [Ide](#ide)
+* [Intellij](#intellij)
 * [Sql](#sql)
 
 ---
 
-### Ide
+### Intellij
 
-- [Intellij on MacOS Cmd+Shift+A shortcut collision](ide/intellij_macos_cmd_shift_a_collision.md)
+- [Intellij on MacOS Cmd+Shift+A shortcut collision](intellij/intellij_macos_cmd_shift_a_collision.md)
 
 ### Sql
 
 - [Valorize uuid_generate functions in .sql files](sql/valorize_uuid_random_in_sql.md)
 
 
-Sample footer
