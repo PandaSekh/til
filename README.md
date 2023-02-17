@@ -27,3 +27,4 @@ _2 TILs and counting..._
 - [Valorize uuid_generate functions in .sql files](sql/valorize_uuid_random_in_sql.md)
 
 
+Sample footer
