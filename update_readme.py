@@ -109,5 +109,6 @@ def create_readme():
     print_file(category_names, count, categories)
 
 if __name__ == '__main__':
+    print("Starting")
     create_readme()
     os.system('git add README.md')
