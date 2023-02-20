@@ -7,13 +7,14 @@ Inspired by [https://github.com/simonw/til](https://github.com/simonw/til).
 
 ---
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Intellij](#intellij)
+* [Postgresql](#postgresql)
 * [Sql](#sql)
 
 ---
@@ -21,6 +22,10 @@ _2 TILs and counting..._
 ### Intellij
 
 - [Intellij on MacOS Cmd+Shift+A shortcut collision](intellij/intellij_macos_cmd_shift_a_collision.md)
+
+### Postgresql
+
+- [Partial Index](postgresql/partial_index.md)
 
 ### Sql
 
