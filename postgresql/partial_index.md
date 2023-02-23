@@ -1,4 +1,4 @@
-# Partial Index
+# Create a Partial Index on PostgreSQL
 
 PostgreSQL (as well as possibly other databases) provides the functionality to create partial indices. According to the 
 [docs](https://www.postgresql.org/docs/current/indexes-partial.html):  
