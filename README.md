@@ -25,7 +25,7 @@ _3 TILs and counting..._
 
 ### Postgresql
 
-- [Partial Index](postgresql/partial_index.md)
+- [Create a Partial Index on PostgreSQL](postgresql/partial_index.md)
 
 ### Sql
 
