@@ -7,7 +7,7 @@ Inspired by [https://github.com/simonw/til](https://github.com/simonw/til).
 
 ---
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
@@ -29,6 +29,7 @@ _3 TILs and counting..._
 
 ### Sql
 
+- [Get Active Connections to PostgreSQL database](sql/get_active_connections.md)
 - [Valorize uuid_generate functions in .sql files](sql/valorize_uuid_random_in_sql.md)
 
 
