@@ -11,7 +11,7 @@ SELECT * FROM pg_stat_activity;
 
 After that, I noticed that all connections opened by my application had `application_name` valorized as `PostgreSQL JDBC Driver` (it's a Spring Boot app using HikariCP to manage connections, it's probably standard naming). 
 
-So we can get all connections opened by our app with this query:
+So we can get all connections opened by the app with this query:
 ```sql
 SELECT * FROM pg_stat_activity where application_name = 'PostgreSQL JDBC Driver';
 ```
