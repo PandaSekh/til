@@ -7,13 +7,14 @@ Inspired by [https://github.com/simonw/til](https://github.com/simonw/til).
 
 ---
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Intellij](#intellij)
+* [Java](#java)
 * [Postgresql](#postgresql)
 * [Sql](#sql)
 
@@ -22,6 +23,10 @@ _5 TILs and counting..._
 ### Intellij
 
 - [Intellij on MacOS Cmd+Shift+A shortcut collision](intellij/intellij_macos_cmd_shift_a_collision.md)
+
+### Java
+
+- [Optimizing Spring Contexts for JUnit and Mockito Tests](java/spring_junit_mockito_contexts.md)
 
 ### Postgresql
 
