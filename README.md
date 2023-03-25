@@ -7,7 +7,7 @@ Inspired by [https://github.com/simonw/til](https://github.com/simonw/til).
 
 ---
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
@@ -15,6 +15,7 @@ _7 TILs and counting..._
 
 * [Intellij](#intellij)
 * [Java](#java)
+* [Macos](#macos)
 * [Postgresql](#postgresql)
 * [Sql](#sql)
 
@@ -28,6 +29,10 @@ _7 TILs and counting..._
 
 - [Optimizing Spring Contexts for JUnit and Mockito Tests](java/spring_junit_mockito_contexts.md)
 - [Running JUnit 5 Tests Concurrently](java/junit5_concurrent_tests.md)
+
+### Macos
+
+- [How to List and Kill Services on a Specific Port in MacOS](macos/list-active-service-on-port.md)
 
 ### Postgresql
 
