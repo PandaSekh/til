@@ -7,7 +7,7 @@ Inspired by [https://github.com/simonw/til](https://github.com/simonw/til).
 
 ---
 
-_8 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 
@@ -15,6 +15,7 @@ _8 TILs and counting..._
 
 * [Intellij](#intellij)
 * [Java](#java)
+* [Linux](#linux)
 * [Macos](#macos)
 * [Postgresql](#postgresql)
 * [Sql](#sql)
@@ -27,8 +28,13 @@ _8 TILs and counting..._
 
 ### Java
 
+- [AssertJ Test Exception](java/assertj_test_exceptions.md)
 - [Optimizing Spring Contexts for JUnit and Mockito Tests](java/spring_junit_mockito_contexts.md)
 - [Running JUnit 5 Tests Concurrently](java/junit5_concurrent_tests.md)
+
+### Linux
+
+- [Completely Remove a Dependency in Linux](linux/completely_remove_dependency.md)
 
 ### Macos
 
