@@ -7,12 +7,13 @@ Inspired by [https://github.com/simonw/til](https://github.com/simonw/til).
 
 ---
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Docker](#docker)
 * [Intellij](#intellij)
 * [Java](#java)
 * [Linux](#linux)
@@ -21,6 +22,10 @@ _10 TILs and counting..._
 * [Sql](#sql)
 
 ---
+
+### Docker
+
+- [Docker Image Layers - Caching](docker/docker-image-layers-caching.md)
 
 ### Intellij
 
