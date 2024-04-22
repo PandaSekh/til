@@ -7,12 +7,13 @@ Inspired by [https://github.com/simonw/til](https://github.com/simonw/til).
 
 ---
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Bash](#bash)
 * [Docker](#docker)
 * [Intellij](#intellij)
 * [Java](#java)
@@ -22,6 +23,10 @@ _11 TILs and counting..._
 * [Sql](#sql)
 
 ---
+
+### Bash
+
+- [Delete Named Folders and Contents](bash/delete-named-folders.md)
 
 ### Docker
 
@@ -48,11 +53,11 @@ _11 TILs and counting..._
 ### Postgresql
 
 - [Create a Partial Index on PostgreSQL](postgresql/partial_index.md)
+- [Get Active Connections to PostgreSQL database](postgresql/get_active_connections.md)
+- [Get Maximum Active Connections to PostgreSQL database](postgresql/get_max_postresql_connections.md)
 
 ### Sql
 
-- [Get Active Connections to PostgreSQL database](sql/get_active_connections.md)
-- [Get Maximum Active Connections to PostgreSQL database](sql/get_max_postresql_connections.md)
 - [Valorize uuid_generate functions in .sql files](sql/valorize_uuid_random_in_sql.md)
 
 
